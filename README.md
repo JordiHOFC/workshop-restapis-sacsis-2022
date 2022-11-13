@@ -1,11 +1,3 @@
-# Gerenciador de Funcionarios
-
-O Objetivo deste projeto é construir uma API REST que seja capaz de:
-
-- Cadastrar um funcionario 
-- Consultar um funcionario 
-- Deletar um funcionario 
-
 ## Tecnologias
 
 Para conquistar este objetivo utilizaremos linguagem de programação Java na versão 11, Banco de dados Relacional PostgreSQL, e os frameworks do ecossistema Spring Boot, dentre eles: 
@@ -30,3 +22,5 @@ Para executar o aplicativo, entre no diretorio e execute:
 ```shell
 ./mvnw spring-boot:run
 ```
+
+[Veja como construir as atividades aqui](atividades/workshop.md)
